@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @7amod6
-- 👀 I’m interested in ...
+- 👀 I’m interested in ethical hacking 
 - 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on cyber sicurity 
 
 <!---
 7amod6/7amod6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
